@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "myceliumadditions:block/sound_block"
+    }
+  }
+}
