@@ -2,6 +2,7 @@ package net.toxicgold180.myceliumadditions;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.toxicgold180.myceliumadditions.block.ModBlocks;
 import net.toxicgold180.myceliumadditions.item.ModItemGroups;
 import net.toxicgold180.myceliumadditions.item.ModItems;
@@ -18,5 +19,7 @@ public class MyceliumAdditions implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		FuelRegistry.INSTANCE.add(ModItems.COAL_BRIQUETTE, 200);
 	}
 }

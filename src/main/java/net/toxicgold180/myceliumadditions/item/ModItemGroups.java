@@ -23,6 +23,9 @@ public class ModItemGroups {
 
                         entries.add(Items.DIAMOND);
 
+                        entries.add(ModItems.TOMATO);
+                        entries.add(ModItems.COAL_BRIQUETTE);
+
                         entries.add(ModBlocks.RUBY_BLOCK);
                         entries.add(ModBlocks.RAW_RUBY_BLOCK);
 
@@ -32,8 +35,6 @@ public class ModItemGroups {
                         entries.add(ModBlocks.END_STONE_RUBY_ORE);
 
                         entries.add(ModBlocks.SOUND_BLOCK);
-
-                        entries.add(ModItems.TOMATO);
 
 
                     }).build());
