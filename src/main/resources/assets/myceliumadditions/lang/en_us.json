@@ -15,5 +15,7 @@
 
   "block.myceliumadditions.sound_block": "Sound Block",
 
+  "tooltip.myceliumadditions.metal_detector.tooltip": "§7Finds valuables underground",
+
   "itemgroup.ruby": "Ruby Group"
 }
