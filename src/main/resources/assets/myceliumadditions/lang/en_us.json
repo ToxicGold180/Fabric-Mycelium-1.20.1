@@ -1,6 +1,7 @@
 {
-  "item.myceliumadditions.raw_ruby": "Raw Ruby",
   "item.myceliumadditions.ruby": "Ruby",
+  "item.myceliumadditions.raw_ruby": "Raw Ruby",
+  "item.myceliumadditions.metal_detector": "Metal Detector",
 
   "block.myceliumadditions.ruby_block": "Block of Ruby",
   "block.myceliumadditions.raw_ruby_block": "Block of Raw Ruby",
