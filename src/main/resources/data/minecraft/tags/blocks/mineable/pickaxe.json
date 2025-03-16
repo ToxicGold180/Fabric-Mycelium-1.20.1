@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "myceliumadditions:ruby_block",
+    "myceliumadditions:raw_ruby_block",
+    "myceliumadditions:ruby_ore",
+    "myceliumadditions:deepslate_ruby_ore",
+    "myceliumadditions:nether_ruby_ore",
+    "myceliumadditions:end_stone_ruby_ore"
+  ]
+}
