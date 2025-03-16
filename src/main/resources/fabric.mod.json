@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "myceliumadditions",
+	"version": "${version}",
+	"name": "Mycelium Additions",
+	"description": "This mod adds mycelium covered blocks",
+	"authors": [
+		"ToxicGold180"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/myceliumadditions/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.toxicgold180.myceliumadditions.MyceliumAdditions"
+		],
+		"client": [
+			"net.toxicgold180.myceliumadditions.MyceliumAdditionsClient"
+		],
+		"fabric-datagen": [
+			"net.toxicgold180.myceliumadditions.MyceliumAdditionsDataGenerator"
+		]
+	},
+	"mixins": [
+		"myceliumadditions.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
