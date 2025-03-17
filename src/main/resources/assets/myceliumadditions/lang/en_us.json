@@ -15,6 +15,16 @@
 
   "block.myceliumadditions.sound_block": "Sound Block",
 
+  "block.myceliumadditions.ruby_stairs": "Ruby Stairs",
+  "block.myceliumadditions.ruby_slab": "Ruby Slab",
+  "block.myceliumadditions.ruby_button": "Ruby Button",
+  "block.myceliumadditions.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.myceliumadditions.ruby_fence": "Ruby Fence",
+  "block.myceliumadditions.ruby_fence_gate": "Ruby Fence Gate",
+  "block.myceliumadditions.ruby_wall": "Ruby Wall",
+  "block.myceliumadditions.ruby_door": "Ruby Door",
+  "block.myceliumadditions.ruby_trapdoor": "Ruby Trapdoor",
+
   "tooltip.myceliumadditions.metal_detector.tooltip": "§7Finds valuables underground",
 
   "itemgroup.ruby": "Ruby Group"
